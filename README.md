@@ -31,6 +31,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/c3bosskung/c3bosskung/blob/output/snake.svg" alt="Snake animation" />
-
 ###
