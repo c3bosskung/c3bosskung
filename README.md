@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at the School of Information Technology at KMUTT.<br>I'm interested in DevSecOps.<br>
+I'm a student at the School of Information Technology at KMUTT.<br>I'm interested in DevSecOps or Backend Developer.<br>
 
 
 ## 🌐 Socials:
